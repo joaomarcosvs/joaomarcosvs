@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 📚 Estudante de Ciência da Computação na UNESC.<br>- ⌨️🖱️ PHP | Laravel | JAVA | Spring | HTML | CSS | BOOTSTRAP | JavaScript | Alpine JS | MySQL<br>- 💼 Atualmente trabalho no CITO LAB - UNESC<br>- 🗿 Meu Github está dedicado ao meus estudos</p>
+<p align="left">- 📚 Estudante de Ciência da Computação na UNESC.<br>- ⌨️🖱️ PHP | Laravel | HTML | CSS | BOOTSTRAP | JavaScript | Alpine JS | MySQL<br>- 💼 Atualmente trabalho no CITO LAB - UNESC<br>- 🗿 Meu Github está dedicado ao meus estudos</p>
 
 ###
 
