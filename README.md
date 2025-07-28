@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 📚 Estudante de Ciência da Computação na UNESC.<br>- ⌨️🖱️ PHP | Laravel | HTML | CSS | BOOTSTRAP | JavaScript | Alpine JS | MySQL<br>- 💼 Atualmente trabalho no CITO LAB - UNESC<br>- 🗿 Meu Github está dedicado ao meus estudos</p>
+<p align="left">- 📚 Developer Student <br>- ⌨️🖱️ C# | Angular | HTML | CSS <br>- 💼 @depstecnologia Deps - UNESCLABS
 
 ###
 
@@ -23,13 +23,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
 </div>
 
 ###
