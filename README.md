@@ -21,14 +21,8 @@
 <a href="https://github.com/joaomarcosvs/brasilApiCS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=brasilApiCS&theme=dark" />
 </a>
-<a href="https://github.com/joaomarcosvs/Faculdade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=Faculdade&theme=dark" />
-</a>
 <a href="https://github.com/joaomarcosvs/crudAngular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=crudAngular&theme=dark" />
-</a>
-<a href="https://github.com/joaomarcosvs/midProjectRPE_4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=midProjectRPE_4&theme=dark" />
 </a>
 
 ---
