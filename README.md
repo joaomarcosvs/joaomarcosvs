@@ -18,8 +18,8 @@
 
 ## 🔥 Projetos em destaque
 
-<a href="https://github.com/joaomarcosvs/brasilApiCS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=brasilApiCS&theme=dark" />
+<a href="https://github.com/joaomarcosvs/quiz-php">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=quiz-php&theme=dark" />
 </a>
 <a href="https://github.com/joaomarcosvs/crudAngular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=crudAngular&theme=dark" />
