@@ -3,7 +3,7 @@
 <p align="center">
   💻 Estudante de Ciência da Computação <br>
   🚀 Entusiasta em desenvolvimento de software <br>
-  🎯 Atualmente focado em <b>C#</b>, <b>Angular</b> e desenvolvimento web
+  🎯 Atualmente focado em <b>JAVA, SpringBoot</b>, <b>e Angular</b>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 📌 Sobre mim
 - 📚 Desenvolvedor / Estudante  
 - ⌨️ Principais stacks: **C#**, **Angular**, **HTML**, **CSS**  
-- 💼 Atuando em projetos pela **Deps Tecnologia - UNESCLABS**  
+- 💼 Jovem Aprendiz na Betha Sistemas, trabalhando com Angular, Java e SpringBoot
 - 🌱 Sempre aprendendo e construindo projetos práticos  
 
 ---
