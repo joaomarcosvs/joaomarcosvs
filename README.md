@@ -18,18 +18,19 @@
 
 ## 🔥 Projetos em destaque
 
+<a href="https://github.com/joaomarcosvs/Faculdade">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=Faculdade&theme=dark" />
+</a>
 <a href="https://github.com/joaomarcosvs/quiz-php">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=quiz-php&theme=dark" />
 </a>
 <a href="https://github.com/joaomarcosvs/crudAngular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=crudAngular&theme=dark" />
 </a>
-<a href="https://github.com/joaomarcosvs/midProjectRPE_4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=midProjectRPE_4&theme=dark" />
+<a href="https://github.com/joaomarcosvs/chess-system-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=dark" />
 </a>
-<a href="https://github.com/joaomarcosvs/Faculdade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=Faculdade&theme=dark" />
-</a>
+
 
 ---
 
