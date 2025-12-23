@@ -3,14 +3,14 @@
 <p align="center">
   💻 Estudante de Ciência da Computação <br>
   🚀 Entusiasta em desenvolvimento de software <br>
-  🎯 Atualmente focado em <b>JAVA, SpringBoot</b>, <b>e Angular</b>
+  🎯 Atualmente focado em <b>JAVA, SpringBoot</b>, <b>e AngularJS</b>
 </p>
 
 ---
 
 ## 📌 Sobre mim
 - 📚 Desenvolvedor / Estudante  
-- ⌨️ Principais stacks: **C#**, **Angular**, **HTML**, **CSS**  
+- ⌨️ Principais stacks: **Angular**, **HTML**, **CSS**  
 - 💼 Jovem Aprendiz na Betha Sistemas, trabalhando com Angular, Java e SpringBoot
 - 🌱 Sempre aprendendo e construindo projetos práticos  
 
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="JAVA logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
