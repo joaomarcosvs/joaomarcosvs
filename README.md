@@ -18,19 +18,21 @@
 
 ## 🔥 Projetos em destaque
 
-<a href="https://github.com/joaomarcosvs/Faculdade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=Faculdade&theme=dark" />
+<a href="https://github.com/joaomarcosvs/mergeAndQuick-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=mergeAndQuick-java&theme=dark" />
 </a>
-<a href="https://github.com/joaomarcosvs/quiz-php">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=quiz-php&theme=dark" />
-</a>
-<a href="https://github.com/joaomarcosvs/crudAngular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=crudAngular&theme=dark" />
+<a href="https://github.com/joaomarcosvs/workshop-springboot4-jpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=workshop-springboot4-jpa&theme=dark" />
 </a>
 <a href="https://github.com/joaomarcosvs/chess-system-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=dark" />
 </a>
-
+<a href="https://github.com/joaomarcosvs/listaTelefonica-angularjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=listaTelefonica-angularjs&theme=dark" />
+</a>
+<a href="https://github.com/joaomarcosvs/crudAngular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=crudAngular&theme=dark" />
+</a>
 
 ---
 
