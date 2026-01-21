@@ -19,12 +19,12 @@
 
 ---
 
-## Links rápidos
-- 🔗 [listaTelefonica-angularjs](https://github.com/joaomarcosvs/listaTelefonica-angularjs)
-- 🔗 [workshop-springboot4-jpa](https://github.com/joaomarcosvs/workshop-springboot4-jpa)
-- 🔗 [chess-system-java](https://github.com/joaomarcosvs/chess-system-java)
-- 🔗 [mergeAndQuick-java](https://github.com/joaomarcosvs/mergeAndQuick-java)
+## Maior projeto que participei!
 - 🔗 [Centra-de-Compras-Unesc](https://github.com/Centra-de-Compras-Unesc)
+  
+Junto de alguns colegas da faculdade, criei uma central de compras para gerenciar uma loja de material de construção real!
+  
+Eu estive presente na construção do backend onde fizemos regras de negócio e uma API REST para gerenciamento de pedidos, fornecedores, lojas e cashback. Construído com Node.js + Express + Prisma + PostgreSQL (Qual essa que não é minha stack mas foi um pedido dos professores para um aprendizado diferente).
 
 ---
 
