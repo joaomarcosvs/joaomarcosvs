@@ -29,18 +29,20 @@ Eu estive presente na construção do backend onde fizemos regras de negócio e 
 ---
 
 ## Projetos em destaque
-<a href="https://github.com/joaomarcosvs/workshop-springboot4-jpa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=workshop-springboot4-jpa&theme=tokyonight&hide_border=true&border_radius=8" />
-</a>
-<a href="https://github.com/joaomarcosvs/chess-system-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=tokyonight&hide_border=true&border_radius=8" />
-</a>
-<a href="https://github.com/joaomarcosvs/listaTelefonica-angularjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=listaTelefonica-angularjs&theme=tokyonight&hide_border=true&border_radius=8" />
-</a>
-<a href="https://github.com/joaomarcosvs/mergeAndQuick-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=mergeAndQuick-java&theme=tokyonight&hide_border=true&border_radius=8" />
-</a>
+<div align="center">
+  <a href="https://github.com/joaomarcosvs/workshop-springboot4-jpa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=workshop-springboot4-jpa&theme=tokyonight&hide_border=true&border_radius=8" />
+  </a>
+  <a href="https://github.com/joaomarcosvs/chess-system-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=tokyonight&hide_border=true&border_radius=8" />
+  </a>
+  <a href="https://github.com/joaomarcosvs/listaTelefonica-angularjs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=listaTelefonica-angularjs&theme=tokyonight&hide_border=true&border_radius=8" />
+  </a>
+  <a href="https://github.com/joaomarcosvs/mergeAndQuick-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=mergeAndQuick-java&theme=tokyonight&hide_border=true&border_radius=8" />
+  </a>
+</div>
 
 ## Estatísticas
 <div align="center">
@@ -64,7 +66,7 @@ Eu estive presente na construção do backend onde fizemos regras de negócio e 
 ---
 
 ## Tecnologias
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
@@ -77,7 +79,7 @@ Eu estive presente na construção do backend onde fizemos regras de negócio e 
 ---
 
 ## Contato
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/joaomarcos.vs/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
