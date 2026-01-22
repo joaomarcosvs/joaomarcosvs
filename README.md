@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=header"/>
+
 <h1 align="center">Olá, eu sou o João Marcos 👋</h1>
 
 <p align="center">
@@ -91,3 +93,4 @@ Eu estive presente na construção do backend onde fizemos regras de negócio e 
   </a>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=footer"/>
