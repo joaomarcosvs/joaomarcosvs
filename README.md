@@ -38,8 +38,8 @@ Eu estive presente na construção do backend onde fizemos regras de negócio e 
   <a href="https://github.com/joaomarcosvs/chess-system-java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=tokyonight&hide_border=true&border_radius=8" />
   </a>
-  <a href="https://github.com/joaomarcosvs/listaTelefonica-angularjs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=listaTelefonica-angularjs&theme=tokyonight&hide_border=true&border_radius=8" />
+  <a href="https://github.com/joaomarcosvs/listaTelefonica-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=listaTelefonica-java&theme=tokyonight&hide_border=true&border_radius=8" />
   </a>
   <a href="https://github.com/joaomarcosvs/mergeAndQuick-java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=mergeAndQuick-java&theme=tokyonight&hide_border=true&border_radius=8" />
