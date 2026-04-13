@@ -15,7 +15,7 @@
 
 ## Sobre mim
 - 🎓 Estudante de Ciência da Computação
-- 💼 Jovem Aprendiz na Betha Sistemas
+- 💼 Estagiário na Betha Sistemas
 - 🧩 Experiência com Angular, Java e Spring Boot
 - 🚀 Sempre construindo projetos práticos
 
