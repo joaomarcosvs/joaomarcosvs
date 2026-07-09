@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=header"/>
 
-<h1 align="center">Olá, eu sou o João Marcos 👋</h1>
-
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor Fullstack (Java, Spring Boot e AngularJS)
+  <a href="https://github.com/joaomarcosvs">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1F618D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C%20eu%20sou%20o%20Jo%C3%A3o%20Marcos%20%F0%9F%91%8B;Desenvolvedor%20Fullstack%20%28Java%2C%20Spring%20Boot%2C%20AngularJS%29;Sempre%20aprendendo%20algo%20novo%20%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -43,11 +43,39 @@
 
 ---
 
+## 📈 Atividade GitLab
+
+<p align="center">
+  <img src="./assets/gitlab-activity.svg" alt="Heatmap de atividade no GitLab" />
+</p>
+
+<p align="center">
+  <sub>Atualizado automaticamente todo dia · passe o mouse num quadrado pra ver a contagem daquele dia</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/gitlab-stats.svg" alt="Estatísticas de atividade no GitLab" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaomarcosvs&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosvs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosvs&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=joaomarcosvs&theme=tokyonight&hide_border=true&border_radius=8" />
 </div>
 
 ---
