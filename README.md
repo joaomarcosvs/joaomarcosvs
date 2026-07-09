@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=header"/>
 
-<h1 align="center">Olá, eu sou o João Marcos 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=1F618D&center=true&vCenter=true&width=420&height=25&lines=Dev%20Fullstack%20Java%2C%20Spring%20Boot%20e%20AngularJS" alt="Typing SVG" />
+  <a href="https://github.com/joaomarcosvs">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1F618D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C%20eu%20sou%20o%20Jo%C3%A3o%20Marcos%20%F0%9F%91%8B;Dev%20Fullstack%20%28Java%2C%20Spring%20Boot%2C%20AngularJS%29;Sempre%20aprendendo%20algo%20novo%20%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,6 +25,8 @@
 > Após entrar na Betha e começar meu estágio, decidi construir uma aplicação do zero para validar meus conhecimentos de mercado.
 > É uma plataforma de gestão financeira com foco em performance e UX. 
 > **Stack:** Java, Spring Boot, PostgreSQL, Segurança JWT, AngularJS e Tailwind CSS.
+>
+> Sem continuidade
 
 ---
 
@@ -64,8 +65,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosvs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcosvs&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320" />
+  <img height="160em" src="https://github-readme-stats-coral-three-37.vercel.app/api?username=joaomarcosvs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
+  <img height="160em" src="https://github-readme-stats-coral-three-37.vercel.app/api/top-langs/?username=joaomarcosvs&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&card_width=320" />
 </div>
 
 <div align="center">
@@ -85,10 +86,10 @@
 ## 📌 Outros Projetos
 <div align="center">
   <a href="https://github.com/joaomarcosvs/workshop-springboot4-jpa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=workshop-springboot4-jpa&theme=tokyonight&hide_border=true&border_radius=8" />
+    <img src="https://github-readme-stats-coral-three-37.vercel.app/api/pin/?username=joaomarcosvs&repo=workshop-springboot4-jpa&theme=tokyonight&hide_border=true&border_radius=8" />
   </a>
   <a href="https://github.com/joaomarcosvs/chess-system-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=tokyonight&hide_border=true&border_radius=8" />
+    <img src="https://github-readme-stats-coral-three-37.vercel.app/api/pin/?username=joaomarcosvs&repo=chess-system-java&theme=tokyonight&hide_border=true&border_radius=8" />
   </a>
 </div>
 
