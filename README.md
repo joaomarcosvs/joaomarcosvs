@@ -44,25 +44,7 @@
 
 ---
 
-## 📈 Atividade GitLab
-
-<p align="center">
-  <a href="./assets/gitlab-activity.svg" target="_blank">
-    <img src="./assets/gitlab-activity.svg" alt="Heatmap de atividade no GitLab" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Atualizado automaticamente todo dia · clique na imagem pra abrir o SVG e ver a contagem de cada dia ao passar o mouse</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/gitlab-stats.svg" alt="Estatísticas de atividade no GitLab" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-coral-three-37.vercel.app/api?username=joaomarcosvs&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" />
