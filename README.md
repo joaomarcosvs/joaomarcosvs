@@ -19,17 +19,6 @@
 
 ---
 
-## 🌟 Projeto em Destaque
-
-### 💰 [Financial Management](https://github.com/joaomarcosvs/financialManagement-java)
-> Após entrar na Betha e começar meu estágio, decidi construir uma aplicação do zero para validar meus conhecimentos de mercado.
-> É uma plataforma de gestão financeira com foco em performance e UX. 
-> **Stack:** Java, Spring Boot, PostgreSQL, Segurança JWT, AngularJS e Tailwind CSS.
->
-> Sem continuidade
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
